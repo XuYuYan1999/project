@@ -1,0 +1,107 @@
+/* 头部 */
+.headerWrap .van-search__content--round {
+	height: 1rem;
+}
+
+.headerWrap .van-field__control {
+	font-size: .5rem;
+	color: #000;
+}
+
+.headerWrap .van-field__body {
+	margin-top: .13rem;
+}
+
+.headerWrap .van-field__left-icon .van-icon {
+	font-size: .6rem;
+	margin-top: .25rem;
+}
+
+/* 导航栏 */
+.navWrap .van-tab__text {
+	font-size: .4rem;
+}
+
+/* footer */
+.footerWrap .van-tabbar-item__icon {
+	font-size: .5rem;
+	text-align: center;
+}
+
+.footerWrap .van-tabbar-item {
+	font-size: .35rem;
+}
+
+.footerWrap .van-tabbar {
+	height: auto;
+}
+
+.footerWrap .van-tabbar-item__icon img {
+	height: .7rem;
+}
+
+.footerWrap .van-tabbar-item .van-info {
+	width: .5rem;
+	height: .5rem;
+	font-size: .4rem;
+}
+
+/* filterWrap */
+.filterWrap .van-nav-bar__arrow {
+	font-size: .8rem;
+}
+
+.filterWrap .van-nav-bar__title {
+	height: .8rem;
+	line-height: .8rem;
+	font-size: .8rem;
+}
+
+.filterWrap div.van-nav-bar__right i.van-icon {
+	font-size: .8rem !important;
+}
+/* 放映厅-筛选组件 */
+.filterWrap .van-tab__text,
+.van-tab__text{
+	font-size: .4rem;
+	height: 1rem;
+	line-height: 1rem;
+}
+.filterWrap .van-tabs__nav--card,
+.van-tabs__nav--card .van-tab{
+	border: 0;
+}
+.filterWrap .van-tabs__nav--card .van-tab.van-tab--active{
+	background-color: #fff;
+	color: #f00;
+	border: .05rem solid #FF0000;
+	border-radius: .15rem;
+}
+.filterWrap .van-tabs__nav--card .van-tab{
+	color: #000;
+}
+	
+.filterWrap .van-tabs__wrap {
+	overflow: auto;
+}
+.popUp .van-icon {
+	font-size: .8rem;
+	color: #FF0000;
+}
+.inputWrap .van-cell{
+	font-size: .5rem
+}
+/* loginWrap */
+.loginWrap .van-button--primary{
+	height: .7rem;
+	font-size: .4rem
+}
+.van-button--normal{
+  font-size: .4rem;
+}
+.van-dialog__message{
+  font-size: .4rem;
+}
+.van-dialog__footer .van-button{
+  font-size: .4rem;
+}
